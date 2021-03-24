@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taglib xmlns="http://java.sun.com/xml/ns/j2ee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-jsptaglibrary_2_0.xsd"
+        version="2.0">
+
+    <description>Macorin Framework JSP Tag Library</description>
+    <tlib-version>2.0</tlib-version>
+    <short-name>jump</short-name>
+    <uri>http://www.macor.in/tags</uri>
+
+    <tag-file>
+        <name>main</name>
+        <path>/META-INF/tags/main.tag</path>
+    </tag-file>
+
+    <tag-file>
+        <name>widget</name>
+        <path>/META-INF/tags/widget.tag</path>
+    </tag-file>
+
+    <tag-file>
+        <name>formcrud</name>
+        <path>/META-INF/tags/formcrud.tag</path>
+    </tag-file>
+
+    <tag-file>
+        <name>tablecrud</name>
+        <path>/META-INF/tags/tablecrud.tag</path>
+    </tag-file>
+
+    <tag-file>
+        <name>textfield</name>
+        <path>/META-INF/tags/textfield.tag</path>
+    </tag-file>
+
+    <tag-file>
+        <name>datefield</name>
+        <path>/META-INF/tags/datefield.tag</path>
+    </tag-file>
+
+    <tag-file>
+        <name>timefield</name>
+        <path>/META-INF/tags/timefield.tag</path>
+    </tag-file>
+
+    <tag-file>
+        <name>hidden</name>
+        <path>/META-INF/tags/hidden.tag</path>
+    </tag-file>
+
+    <tag-file>
+        <name>control-group</name>
+        <path>/META-INF/tags/control-group.tag</path>
+    </tag-file>
+
+    <tag-file>
+        <name>modal-footer</name>
+        <path>/META-INF/tags/modal-footer.tag</path>
+    </tag-file>
+
+    <tag-file>
+        <name>modal-body</name>
+        <path>/META-INF/tags/modal-body.tag</path>
+    </tag-file>
+
+    <tag-file>
+        <name>modal</name>
+        <path>/META-INF/tags/modal.tag</path>
+    </tag-file>
+
+    <tag-file>
+        <name>select</name>
+        <path>/META-INF/tags/select.tag</path>
+    </tag-file>
+
+    <tag-file>
+        <name>search</name>
+        <path>/META-INF/tags/search.tag</path>
+    </tag-file>
+</taglib>
